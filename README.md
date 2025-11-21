@@ -33,7 +33,7 @@ A user-friendly GUI built with Tkinter allows users to upload chest X-ray images
 
 - Real-time model prediction
 
-Displays:
+3- Displays:
 
 - Predicted class
 
