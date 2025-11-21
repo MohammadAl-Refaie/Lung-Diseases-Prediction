@@ -40,3 +40,7 @@ A user-friendly GUI built with Tkinter allows users to upload chest X-ray images
 - Confidence percentage
 
 - The X-ray image
+
+You can find the dataset available on kaggle: https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease
+
+If you need further assistant feel free to contact.
